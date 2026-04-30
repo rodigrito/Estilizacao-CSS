@@ -10,7 +10,7 @@ Repositório dedicado à nova atividade prática de desenvolvimento web do IOS. 
 A estilização deste projeto foi construída utilizando **exclusivamente** as seguintes propriedades:
 
 - `border-radius`: Deixa os cantos arredondados
-- `hover`: Efeito de hover para os links de navegação. (ação após o mouse passar dentro da tag escolhida com o elemento desejado)
+- `hover`: Efeito de hover para os links de navegação. (ação após o mouse passar dentro da tag escolhida com o efeito desejado)
 - `font-size`: Para o dimensionamento da tipografia.
 - `object-fit`: Ajusta a imagem sem distorcer.
 
